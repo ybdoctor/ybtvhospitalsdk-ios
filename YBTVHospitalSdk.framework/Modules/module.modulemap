@@ -1,0 +1,6 @@
+framework module YBTVHospitalSdk {
+  umbrella header "YBTVHospitalSdk.h"
+
+  export *
+  module * { export * }
+}
