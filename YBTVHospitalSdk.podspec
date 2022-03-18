@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
     
     s.author           = { 'nieyinlong' => 'nyl0819@126.com' }
     s.platform     = :ios, "9.0"
-    s.source       = { :git => "https://git.ebaolife.net/nieyinlong/ybtvhospitalsdk-ios.git", :tag => s.version }
+    s.source       = { :git => "https://github.com/ybdoctor/ybtvhospitalsdk-ios.git", :tag => s.version }
   
     s.pod_target_xcconfig = {
         'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
