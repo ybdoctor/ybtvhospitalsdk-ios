@@ -4,7 +4,7 @@
 支持iOS9.0及以以上
 
 ## 1. 自动集成(推荐)
-pod 'YBTVHospitalSdk'
+```pod 'YBTVHospitalSdk'```
 
 
 ## 2. 手动集成
