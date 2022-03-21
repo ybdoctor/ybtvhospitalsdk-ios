@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "YBTVHospitalSdk"
-    s.version      = "1.0.2"
+    s.version      = "1.0.01"
     s.summary      = "亿保互联网视频咨询"
 
     s.description  = <<-DESC
